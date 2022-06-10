@@ -22,6 +22,14 @@ We have Six member in our team-
 
 Moving a head lets talk about what skills we required to build the website like this, A front-end developer design team’s website design and writes the code needed to implement it on the web. A decent front-end web developer will be fluent in programming languages- HTML, CSS, JavaScript, React and Redux Thunk. We also used ES6 and React-Bootstrap.
 
+
+**deploy link**
+
+Project Deploy Link : "(https://frazzo.netlify.app/)"
+
+
+<hr/>
+
 Some snippets of our website-
 ![image](https://user-images.githubusercontent.com/84118928/172613172-fc6d9d8d-23a9-461d-9492-21f8e192021f.png)
 ![image](https://user-images.githubusercontent.com/84118928/172613215-e2d9c8d7-0edc-4ec9-9cf4-eb44611151e0.png)

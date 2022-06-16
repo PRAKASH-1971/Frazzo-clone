@@ -3,8 +3,13 @@ FRAAZO…
 Hello readers!
 
 When you open your browser , you can see various colorful and well designed websites. then we thought that ,if I was able to design a website like this?
+So, This time as a part of Curriculum’s module 4 project .we were given a task to develop clone of a website named Fraazo (www.Fraazo.com)
 
-So, This time as a part of Curriculum’s module 4 project .we were given a task to develop clone of a website named Fraazo (www.Fraazo.com).Fraazo was launched in 2016 as a fresh produce store in the posh locality of Powai with a clear vision of serving the customers with farm-fresh groceries delivered at the doorstep,” says co-founder Atul Kumar. “With satisfactory engagement and positive feedback from our customers, we launched our web portal in 2018.
+## About this project: 🙌
+
+>
+----
+.Fraazo was launched in 2016 as a fresh produce store in the posh locality of Powai with a clear vision of serving the customers with farm-fresh groceries delivered at the doorstep,” says co-founder Atul Kumar. “With satisfactory engagement and positive feedback from our customers, we launched our web portal in 2018.
 
 We have Six member in our team-
 
